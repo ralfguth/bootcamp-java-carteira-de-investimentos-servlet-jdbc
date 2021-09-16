@@ -1,7 +1,7 @@
 # :dollar: :chart: Carteira de Investimentos
 
 Projeto web dinamico que utiliza as bibliotecas padrão da linguagem Java. 
-Possibilita cadastro e acesso de transações financeiras. 
+Possibilita cadastro e acesso de transações financeiras. Feito como atividade prática do módulo 01 no Bootcamp Java realizado pela [Alura](https://www.alura.com.br/) 
 
 ## 🛠 Tecnologias
 
